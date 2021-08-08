@@ -192,3 +192,16 @@ footer{
     border-radius: 9px;
     font-size: 1.1rem;
 } 
+#contact-box #submit{
+    display: flex;
+    width: 100px;
+    border-radius: 15px;
+    align-items: center;
+    justify-content: center;
+    margin: auto;
+    padding: 5px 5px;
+}
+#contact-box #submit:hover{
+    color: cadetblue;
+    background-color: black;
+}    
