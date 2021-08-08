@@ -194,12 +194,13 @@ footer{
 } 
 #contact-box #submit{
     display: flex;
-    width: 100px;
-    border-radius: 15px;
+    width: 78px;
+    border-radius: 10px;
     align-items: center;
     justify-content: center;
     margin: auto;
-    padding: 5px 5px;
+    padding: 3px 5px;
+    border: 2px solid brown;
 }
 #contact-box #submit:hover{
     color: cadetblue;
